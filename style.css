@@ -25,3 +25,13 @@
 
 /* General Styles
    ========================================================================== */
+html,
+body {
+    min-height: 100vh;
+    background-color: var(--off-white);
+}
+
+main {
+    max-width: 1440px;
+    margin: auto;
+}
